@@ -72,8 +72,4 @@ Submit a pull request or open an issue.
 
 ---
 
-## 📜 License
-
-This project is under the **MIT License**.
-
 Enjoy the game! 🐍✨
